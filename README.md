@@ -20,3 +20,7 @@ In a world where cybersecurity is a major concern, using strong passwords is ess
 🔹 Security and best practices in cybersecurity
 
 🔐 Let’s protect our data, one password at a time! 🔐
+
+Amal Haouas Zahouani
+
+Email: amal.houas2405@gmail.com GitHub: https://github.com/AmalHaouas
